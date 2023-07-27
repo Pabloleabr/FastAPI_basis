@@ -1,5 +1,5 @@
 # FastAPI
-Small FastAPI aplication to test and use a simple aplication.
+Small FastAPI aplication to test and use a simple api with mongoDB.
 
 ## Requirements
     1. Have Python and pip installed
@@ -7,7 +7,7 @@ Small FastAPI aplication to test and use a simple aplication.
 
 ## Steps to set up the project
 ```shell
-    1. env/Scripts/activate
-    2. pip install -r requirements.txt
-    3. python -m uvicorn main:app --reload
+    env/Scripts/activate
+    pip install -r requirements.txt
+    python -m uvicorn main:app --reload
 ```
